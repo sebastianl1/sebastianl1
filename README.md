@@ -1,10 +1,3 @@
-<p align="left">
-  <a href="#es"><img src="https://img.shields.io/badge/Espa%C3%B1ol-00A884?style=flat&logo=translate&logoColor=white" alt="Ir a Español" /></a>
-  <a href="#en"><img src="https://img.shields.io/badge/English-0A66C2?style=flat&logo=translate&logoColor=white" alt="Go to English" /></a>
-</p>
-
-<br />
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/sebastianl1/sebastianl1/main/particles.svg" alt="Animated starfield" width="900" />
 </p>
@@ -14,6 +7,17 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=760&lines=Chemical+Engineer;Chemical+Process+Technologist;Full-Stack+Developer;Cybersecurity+%26+Industrial+Automation;Local+AI+on+Android+%2F+Termux;Software+%C2%B7+Industry+%C2%B7+Electronics+%C2%B7+Solar;Ingeniero+Qu%C3%ADmico&color=00F5D4#gh-dark-mode-only" alt="Typing SVG — dark" />
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=760&lines=Chemical+Engineer;Chemical+Process+Technologist;Full-Stack+Developer;Cybersecurity+%26+Industrial+Automation;Local+AI+on+Android+%2F+Termux;Software+%C2%B7+Industry+%C2%B7+Electronics+%C2%B7+Solar;Ingeniero+Qu%C3%ADmico&color=00A884#gh-light-mode-only" alt="Typing SVG — light" />
+</p>
+
+<p align="center">
+  <a href="#es"><img src="https://img.shields.io/badge/Espa%C3%B1ol-00A884?style=flat&logo=translate&logoColor=white" alt="Ir a Español" /></a>
+  <a href="#en"><img src="https://img.shields.io/badge/English-0A66C2?style=flat&logo=translate&logoColor=white" alt="Go to English" /></a>
+  <a href="mailto:sebasbele11@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://www.linkedin.com/in/juan-sebastian-laguna-bele%C3%B1o-925345160"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://wa.me/573106197255"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+  <a href="https://t.me/+573106197255"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" /></a>
+  <a href="https://github.com/sebastianl1"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://sebastianl1.github.io/Portafolio/"><img src="https://img.shields.io/badge/Portfolio-7C5CFF?style=flat-square" alt="Portfolio" /></a>
 </p>
 
 <a id="es"></a>
@@ -62,15 +66,6 @@
 **Certificación:** Ciberseguridad — Universidad de los Andes · [Ver certificado PDF](https://github.com/sebastianl1/Portafolio/blob/main/public/certificates/Ciberseguridad_UA.pdf)
 
 ### Contacto
-
-<p align="center">
-  [Email](mailto:sebasbele11@gmail.com) ·
-  [LinkedIn](https://www.linkedin.com/in/juan-sebastian-laguna-bele%C3%B1o-925345160) ·
-  [WhatsApp](https://wa.me/573106197255) ·
-  [Telegram](https://t.me/+573106197255) ·
-  [GitHub](https://github.com/sebastianl1) ·
-  [Portafolio](https://sebastianl1.github.io/Portafolio/)
-</p>
 
 <p align="center">
   <a href="mailto:sebasbele11@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" /></a>
@@ -133,15 +128,6 @@
 **Certification:** Cybersecurity — Universidad de los Andes · [View certificate PDF](https://github.com/sebastianl1/Portafolio/blob/main/public/certificates/Ciberseguridad_UA.pdf)
 
 ### Contact
-
-<p align="center">
-  [Email](mailto:sebasbele11@gmail.com) ·
-  [LinkedIn](https://www.linkedin.com/in/juan-sebastian-laguna-bele%C3%B1o-925345160) ·
-  [WhatsApp](https://wa.me/573106197255) ·
-  [Telegram](https://t.me/+573106197255) ·
-  [GitHub](https://github.com/sebastianl1) ·
-  [Portfolio](https://sebastianl1.github.io/Portafolio/)
-</p>
 
 <p align="center">
   <a href="mailto:sebasbele11@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" /></a>
