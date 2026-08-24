@@ -1,8 +1,12 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sebastianl1/sebastianl1/main/particles.svg" alt="Animated starfield" width="900" />
+</p>
+
 <h1 align="center">Juan Sebastián Laguna Beleño</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=900&center=true&vCenter=true&width=520&lines=Full-Stack+Developer;Cybersecurity+%26+Industrial+Automation;Local+AI+on+Android+%2F+Termux;Software+%7C+Industry+%7C+Electronics+%7C+Solar#gh-dark-mode-only" alt="Typing SVG — dark" />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=900&center=true&vCenter=true&width=520&lines=Full-Stack+Developer;Cybersecurity+%26+Industrial+Automation;Local+AI+on+Android+%2F+Termux;Software+%7C+Industry+%7C+Electronics+%7C+Solar&color=00A884#gh-light-mode-only" alt="Typing SVG — light" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=760&lines=Chemical+Engineer;Chemical+Process+Technologist;Full-Stack+Developer;Cybersecurity+%26+Industrial+Automation;Local+AI+on+Android+%2F+Termux;Software+%C2%B7+Industry+%C2%B7+Electronics+%C2%B7+Solar;Ingeniero+Qu%C3%ADmico&color=00F5D4#gh-dark-mode-only" alt="Typing SVG — dark" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=760&lines=Chemical+Engineer;Chemical+Process+Technologist;Full-Stack+Developer;Cybersecurity+%26+Industrial+Automation;Local+AI+on+Android+%2F+Termux;Software+%C2%B7+Industry+%C2%B7+Electronics+%C2%B7+Solar;Ingeniero+Qu%C3%ADmico&color=00A884#gh-light-mode-only" alt="Typing SVG — light" />
 </p>
 
 <p align="center">
@@ -14,14 +18,12 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sebastianl1&show_icons=true&include_all_commits=true&theme=github_dark#gh-dark-mode-only" alt="Sebastián's GitHub stats — dark" />
-  <img src="https://github-readme-stats.vercel.app/api?username=sebastianl1&show_icons=true&include_all_commits=true&theme=default&hide_border=true#gh-light-mode-only" alt="Sebastián's GitHub stats — light" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebastianl1&layout=compact&langs_count=8&theme=github_dark#gh-dark-mode-only" alt="Top languages — dark" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebastianl1&layout=compact&langs_count=8&theme=default&hide_border=true#gh-light-mode-only" alt="Top languages — light" />
-  <br />
-  <img src="https://streak-stats.demolab.com/?user=sebastianl1&theme=github-dark#gh-dark-mode-only" alt="GitHub streak — dark" />
-  <img src="https://streak-stats.demolab.com/?user=sebastianl1&theme=default&hide_border=true#gh-light-mode-only" alt="GitHub streak — light" />
+  <a href="mailto:sebasbele11@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://www.linkedin.com/in/juan-sebastian-laguna-bele%C3%B1o-925345160"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://wa.me/573106197255"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+  <a href="https://t.me/+573106197255"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" /></a>
+  <a href="https://github.com/sebastianl1"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://sebastianl1.github.io/Portafolio/"><img src="https://img.shields.io/badge/Portfolio-7C5CFF?style=flat-square" alt="Portfolio" /></a>
 </p>
 
 ## Areas of Expertise
@@ -66,6 +68,12 @@
   [Telegram](https://t.me/+573106197255) ·
   [GitHub](https://github.com/sebastianl1) ·
   [Portfolio](https://sebastianl1.github.io/Portafolio/)
+</p>
+
+<br />
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sebastianl1/sebastianl1/main/particles.svg" alt="Animated starfield" width="900" />
 </p>
 
 <details>
