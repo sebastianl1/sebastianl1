@@ -1,7 +1,7 @@
-<div align="center">
-  <a href="#es"><img src="https://img.shields.io/badge/Espa%C3%B1ol-00A884?style=flat-square&logo=translate&logoColor=white" alt="Ir a Español" /></a>
-  <a href="#en"><img src="https://img.shields.io/badge/English-0A66C2?style=flat-square&logo=translate&logoColor=white" alt="Go to English" /></a>
-</div>
+<p align="left">
+  <a href="#es"><img src="https://img.shields.io/badge/Espa%C3%B1ol-00A884?style=flat&logo=translate&logoColor=white" alt="Ir a Español" /></a>
+  <a href="#en"><img src="https://img.shields.io/badge/English-0A66C2?style=flat&logo=translate&logoColor=white" alt="Go to English" /></a>
+</p>
 
 <br />
 
